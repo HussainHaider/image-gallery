@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+img:hover {
+    cursor: zoom-in;
+}
+
+.form-field {
+    width: 35%;
+    margin: 20px 0;
+}
+
+.spinner {
+    margin: 0 auto;
+}

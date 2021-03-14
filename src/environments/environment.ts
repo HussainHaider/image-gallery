@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  pexelsApiKey: '20672732-c7f66b709fe89932a3db761d7'
 };
 
 /*
