@@ -19,13 +19,12 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Development Description
-pixabay
 ### Resources
 I used the following resources to complete this task
 1) https://javascript.plainenglish.io/how-to-create-an-image-gallery-app-with-angular-903190015aec
 2) https://github.com/ivylaboratory/angular-gallery
 
-### FOR SEO
+### For SEO
 I used the meta tags to improve the seo of the website. some of the meta tags do not have the correct information. Its just for the testing.
 Also I used the alt attribute on the image tag.
 
